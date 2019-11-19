@@ -11,7 +11,7 @@ Copyright &copy; 2019 Gruntwork, Inc.
 ### Quickly up
 
 ```
-cd example/gke-private-cluster
+cd examples/gke-private-cluster
 
 terraform init
 
