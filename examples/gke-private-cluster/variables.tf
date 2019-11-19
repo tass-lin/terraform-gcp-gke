@@ -6,7 +6,6 @@
 variable "project" {
   description = "The project ID where all resources will be launched."
   type        = string
-  default     = "carnival-cloud-ace"
 }
 
 variable "location" {
